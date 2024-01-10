@@ -9,7 +9,7 @@
 
 ## Education
 - M.S. Data Science	                 | Illinois Institute of Technology (_September 2022 – May 2024_)	 			        		
-- B.E. Electronics and Communication | Anna University                  (_August 2017 - April 2021_)
+- B.E. Electronics and Communication |                  Anna University (_August 2017 - April 2021_)
 
 ## Work Experience
 **Data Analyst @ MOVING WALLS INDIA PRIVATE LIMITED (_November 2021 - August 2022 _)**

@@ -1,4 +1,4 @@
-# Santhosh Mani
+# Data Analyst
 
 ## Skills: 
 - Programming Languages & Databases: Python, C, Bash, MATLAB, NoSQL, MySQL, MongoDB, PostgreSQL, HTML
@@ -8,19 +8,19 @@
 
 
 ## Education
-- M.S., Data Science	| Illinois Institute of Technology (_September 2022 – May 2024_)	 			        		
-- B.E., Electronics and Communication | Anna University (_August 2017 - April 2021_)
+- M.S. Data Science	| Illinois Institute of Technology (_September 2022 – May 2024_)	 			        		
+- B.E. Electronics and Communication | Anna University (_August 2017 - April 2021_)
 
 ## Work Experience
 **Data Analyst @ MOVING WALLS INDIA PRIVATE LIMITED (_November 2021 - August 2022 _)**
-- Validated data sets from global sources, analyzed their trends and drew insights from the reports to
+- Validated data sets from global sources, analyzed their trends, and drew insights from the reports to
 predict future audience migration with an accuracy of 85%.
 - Analyzed audience behavior and engagement data, created intuitive visual reports, and collaborated with
 cross-functional teams to optimize media campaigns and enhance decision-making processes.
 - Technologies Used: Python, MongoDB, MySQL, Tableau, Excel, Redshift
 
 **Data Analsyt Intern @ Global Shala - Saint Louis University (_September 2021 – November 2021_)**
-- Collaborated with cross-functional teams to collect, analyse, and visualize educational data, contributing to informed   decision-making.
+- Collaborated with cross-functional teams to collect, analyze, and visualize educational data, contributing to informed   decision-making.
 - Designed efficient methods to transform raw data with a 95% throughput for Facebook ads campaign analysis to achieve a non-profitable campaign
 
 **Implant Trainee @ Lema Labs – Kaizen Robotics Program (_February 2019 – March 2019_)**
@@ -48,14 +48,14 @@ enabling reliable identification of emotional states from speech signals.
 ### Telecom Churn Analysis with AWS 
 
 
--  Led the development of an advanced churn analysis solution using AWS Redshift, automating model training to significantly enhance forecast accuracy, while also implementing scalable data warehousing for efficient customer data evaluation.
+-  Led the development of an advanced churn analysis solution using AWS Redshift, automating model training to significantly enhance forecast accuracy and implementing scalable data warehousing for efficient customer data evaluation.
 
 
 ### A Library Management System	
 
 
--   Designed an ER model, transformed it into a relational schema, and created SQL script fulfilling 95% data.
-requirements. Developed a web app with database backend to manage students, books, and documents in Library.
+-   Designed an ER model, transformed it into a relational schema, and created SQL script fulfilling 95% of data.
+requirements. Developed a web app with a database backend to manage students, books, and documents in the Library.
 
 
 ###  Entire Home Surveillance using Pi and Intelligent Cameras
@@ -77,7 +77,7 @@ requirements. Developed a web app with database backend to manage students, book
 -	Conducted the event as one of the student coordinators which augmented leadership qualities.
   
 ### Entrepreneurship Development Cell	(_June 2018 – March 2020_)
--	Served as the student representative and attended a state level conference on behalf of the institution.
+-	Served as the student representative and attended a state-level conference on behalf of the institution.
 
 
 

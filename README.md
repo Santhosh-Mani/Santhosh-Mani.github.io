@@ -8,7 +8,7 @@
 
 
 ## Education
-- M.S. Data Science	                 | Illinois Institute of Technology (_September 2022 – May 2024_)	 			        		
+- M.S. Data Science	                 |                  Illinois Institute of Technology (_September 2022 – May 2024_)	 			        		
 - B.E. Electronics and Communication |                  Anna University (_August 2017 - April 2021_)
 
 ## Work Experience

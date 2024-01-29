@@ -13,7 +13,7 @@
 
 ## Work Experience
 **Data Analyst @ MOVING WALLS INDIA PRIVATE LIMITED (_November 2021 - August 2022 _)**
-- Validated data sets from global sources, analyzed their trends, and drew insights from the reports to
+- Validated data sets from global sources, analyzed their trends and drew insights from the reports to
 predict future audience migration with an accuracy of 85%.
 - Analyzed audience behavior and engagement data, created intuitive visual reports, and collaborated with
 cross-functional teams to optimize media campaigns and enhance decision-making processes.
@@ -35,6 +35,11 @@ cross-functional teams to optimize media campaigns and enhance decision-making p
 - Developed accurate predictive models and extracted insights, including customer preferences, brand performance, and pricing trends, providing valuable guidance for targeted marketing strategies and inventory management in the e-commerce domain
 
 
+### Power BI 360 - - Brick & mortar and e-commerce
+
+
+-  Designed a comprehensive Power BI dashboard with multiple views tailored for six key departments (sales, finance, supply chain, executive, marketing, and products) at AtliQ hardware to understand sales trends and facilitate data-driven decisions, which targeted 10% revenue acceleration and 20% reduction in data-related expenses.
+- Integrated and analyzed large datasets with over a million records from two different sources (Excel and MySQL) and Optimized the report with DAX Studio, reducing storage by 30% and enhancing performance by 10%.
 
 ### Speech Emotion Recognition using Machine Learning Algorithm
 
@@ -44,6 +49,13 @@ state of speakers from their speech.
 - Leveraged advanced techniques and algorithms to significantly boost emotion recognition accuracy to 80%,
 enabling reliable identification of emotional states from speech signals. 
 
+
+### Sales Insight Enhancement through Real-Time Dashboard Implementation using Tableau
+
+
+- Spearheaded the creation of a dynamic Power BI dashboard using Tableau for a computer hardware business facing market challenges
+- Implemented data analysis strategies resulting in a 10% cost savings of the total spend for the Sales Department.
+- Streamlined the workflow for Sales Analysts, eliminating manual data gathering and saving 20% of their business time, which was reinvested in value-added activities.
 
 ### Telecom Churn Analysis with AWS 
 

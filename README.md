@@ -12,6 +12,12 @@
 - B.E. Electronics and Communication |                  Anna University (_August 2017 - April 2021_)
 
 ## Work Experience
+**Data Analyst Intern @ LABELMASTER (_January 2024 - Present _)**
+- Led the design and development of a customized price guidance system, leveraging historical sales data and market trends to optimize pricing decisions and maximize revenue.
+- Developed and implemented user-based collaborative filtering and clustering methods to identify similarities among families, enabling personalized recommendations and targeted pricing strategies.
+- Collaborated cross-functionally to gather requirements, validate models, and integrate the price guidance system, communicating key insights through intuitive data visualizations and dashboards
+- Technologies Used: Python, Sklean,NumPy,Pandas, MySQL, PowerBi, Excel, Redshift
+  
 **Data Analyst @ MOVING WALLS INDIA PRIVATE LIMITED (_November 2021 - August 2022 _)**
 - Validated data sets from global sources, analyzed their trends and drew insights from the reports to
 predict future audience migration with an accuracy of 85%.

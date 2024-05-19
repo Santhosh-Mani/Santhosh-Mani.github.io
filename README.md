@@ -12,7 +12,7 @@
 - B.E. Electronics and Communication |                  Anna University (_August 2017 - April 2021_)
 
 ## Work Experience
-**Data Analyst Intern @ LABELMASTER (_January 2024 - Present _)**
+**Data Analyst Intern @ LABELMASTER (_January 2024 - May 2024 _)**
 - Led the design and development of a customized price guidance system, leveraging historical sales data and market trends to optimize pricing decisions and maximize revenue.
 - Developed and implemented user-based collaborative filtering and clustering methods to identify similarities among families, enabling personalized recommendations and targeted pricing strategies.
 - Collaborated cross-functionally to gather requirements, validate models, and integrate the price guidance system, communicating key insights through intuitive data visualizations and dashboards

@@ -12,7 +12,7 @@
 - B.E. Electronics and Communication |                  Anna University (_August 2017 - April 2021_)
 
 ## Work Experience
-**Data Analyst Intern @ LABELMASTER (_January 2024 - May 2024 _)**
+**Data Scietist Intern @ LABELMASTER (_January 2024 - May 2024 _)**
 - Led the design and development of a customized price guidance system, leveraging historical sales data and market trends to optimize pricing decisions and maximize revenue.
 - Developed and implemented user-based collaborative filtering and clustering methods to identify similarities among families, enabling personalized recommendations and targeted pricing strategies.
 - Collaborated cross-functionally to gather requirements, validate models, and integrate the price guidance system, communicating key insights through intuitive data visualizations and dashboards
@@ -28,6 +28,17 @@ cross-functional teams to optimize media campaigns and enhance decision-making p
 **Data Analsyt Intern @ Global Shala - Saint Louis University (_September 2021 – November 2021_)**
 - Collaborated with cross-functional teams to collect, analyze, and visualize educational data, contributing to informed   decision-making.
 - Designed efficient methods to transform raw data with a 95% throughput for Facebook ads campaign analysis to achieve a non-profitable campaign
+
+**Data Analyst @ CLOUD PENCIL PRIVATE LIMITED (_May 2020 - August 2021 _)**
+- Implemented data-driven solutions for Cloud Pencil’s Web3 platform and ERP system, optimizing crowd funding projects through big data analytics and machine learning.
+  Enhanced campaign performance and user satisfaction, driving innovation in blockchain technology.
+- Designed and implemented ETL pipelines using NodeJS and MongoDB to automate data collection and processing for real-time campaign performance analysis,
+  reducing data processing time by 30% and enabling faster campaign adjustments and improved decision-making.
+- Performed robust data analysis using Python for data validation, SQL for querying databases, and MongoDB for flexible data retrieval.
+  Generated actionable insights through interactive Power BI dashboards, empowering stakeholders with clear visualizations of key metrics and trends.
+- Utilized machine learning algorithms (Random Forest Regressor, XGBoost), to perform customer segmentation(K Means, DBSCAN) and predict future purchasing behaviour, 
+  resulting in more targeted marketing strategies and a 80% increase in sales accuracy.
+- Technologies Used: Python, MongoDB, MySQL, PowerBI, Excel, Redshift, NodeJS.
 
 **Implant Trainee @ Lema Labs – Kaizen Robotics Program (_February 2019 – March 2019_)**
 - Developed and built a line follower, obstacle avoider, pulse width modulated robot, and handwriting robot using embedded C.
@@ -62,6 +73,14 @@ enabling reliable identification of emotional states from speech signals.
 - Spearheaded the creation of a dynamic Power BI dashboard using Tableau for a computer hardware business facing market challenges
 - Implemented data analysis strategies resulting in a 10% cost savings of the total spend for the Sales Department.
 - Streamlined the workflow for Sales Analysts, eliminating manual data gathering and saving 20% of their business time, which was reinvested in value-added activities.
+
+### Marketing Campaign Analytics
+
+
+- Analyzed web traffic data including source, time spent on site, and bounce rate to optimize user experience and increase engagement, resulting in a 15% reduction in bounce rate.
+- Monitored and reported on social media metrics such as followers, likes, impressions, and reach to enhance engagement strategies, leading to a 20% increase in overall social media engagement.
+- Evaluated digital advertising metrics including impressions, clickthrough rate, cost per click, and lead generation to optimize ad spend, improving clickthrough rates by 25% and reducing cost per lead by 18%.
+- Conducted customer analytics to calculate Customer Lifetime Value (CLV) and acquisition cost, and performed revenue analytics to determine net profit and ROI, driving strategic decisions that increased overall ROI by 12%.
 
 ### Telecom Churn Analysis with AWS 
 
